@@ -628,3 +628,22 @@ img {
     height: 50px;
     width: auto;
 }
+
+.header {
+    padding-bottom: 10px;
+}
+
+.bar {
+    height: 3px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.border {
+    margin-bottom: 20px;
+}
+
+.lolgym {
+    border: 1px solid black;
+    width:100%;
+}
