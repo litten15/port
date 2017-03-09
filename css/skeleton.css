@@ -499,7 +499,7 @@ h2 {
 h4 {
     font-family: 'Roboto', serif;
     line-height: 0.9;
-    margin-bottom:0rem;
+    margin-bottom:1.5rem;
     padding-top: 10px;
 }
 
@@ -647,4 +647,8 @@ img {
 .lolgym {
     border: 1px solid black;
     width:100%;
+}
+
+.head4 {
+    margin-bottom: 0;
 }
