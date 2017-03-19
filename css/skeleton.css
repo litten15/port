@@ -606,8 +606,10 @@ ul {
     margin-bottom: 10px;
 }
 
-top {
-    border-radius: 10px;
+#top {
+    
+    border: 1px solid black;
+    
 }
 
 lede {
@@ -616,7 +618,7 @@ lede {
 
 img {
     border: 0;
-    width: 210px;
+    width: 208px;
     height:auto;
 }
 
@@ -637,7 +639,7 @@ img {
 .bar {
     height: 3px;
     background-color: black;
-    margin-top: 15px;
+    margin-top: 35px;
 }
 
 .border {
@@ -651,4 +653,14 @@ img {
 
 .head4 {
     margin-bottom: 0;
+}
+
+span {
+    float: right;
+    margin-bottom: 17px;
+    display: block;
+}
+
+#underline {
+    text-decoration: underline;
 }
